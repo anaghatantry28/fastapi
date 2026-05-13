@@ -1,4 +1,4 @@
 fastapi
-uvicorn
+Uvicorn
 pydantic
 fastapi[standard]
